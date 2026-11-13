@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mwazir.github.io/ridgeline-test-site/sitemap.xml
